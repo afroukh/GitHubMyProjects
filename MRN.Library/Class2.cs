@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace MRN.Library
 {
-    public class Class1
+    class Class2
     {
-        public int age { get; set; }
-
     }
 }
